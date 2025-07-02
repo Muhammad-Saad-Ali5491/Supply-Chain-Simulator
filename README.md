@@ -54,5 +54,5 @@ g++ main.cpp -o SupplyChainSimulator
 Contributions are welcome! Please ensure code follows proper C++ coding standards and includes comments where necessary.
 
 ## License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [LICENSE](LICENSE).
 
